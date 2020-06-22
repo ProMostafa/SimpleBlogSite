@@ -1,0 +1,78 @@
+
+h1
+{
+	font-size: 2.5rem;
+	text-align: center;
+	margin-top: 25px;
+}
+body
+{
+	background-color: #636e72;
+	text-align: center;
+	color: #FFF;
+}
+
+a{
+  color: black;
+}
+p
+{
+	font-size: 20px;
+}
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+.a1
+{
+	font-style: italic;
+}
+
+
+.div1
+{
+	text-align: center;
+}
+
+.container
+{
+	margin-top: 20px;
+	
+}
+.post
+{
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	background-color: #126e55;
+	margin-bottom: 20px;
+	width: 800px;
+	margin-left: 260px;
+	padding: 5px;
+
+}
+.helptext
+{
+	display: none;
+}
+.login
+{
+	width: 300px;
+	margin-left: 500px;
+
+}
+
+#hint_id_password1 {
+    display: none;
+}
+#hint_id_password2{
+    display: none;
+}
+.text-muted {
+    display: none;
+}
